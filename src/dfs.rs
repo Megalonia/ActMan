@@ -5,7 +5,7 @@ use std::collections::HashMap;
 
 
 //THIS WAS AN UTTER FAIL, how can I do graph algos without having recursive
-//inderirection.
+//indirirection.
 //ex:
 //struct Node<T> { A node struct templated at type T
 //  coords: T
